@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+html{
+  background-color: rgb(189, 181, 220);
+  text-align: center;
+}
+
+.innerCont{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  border: 2px solid;
+  border-radius: 10px ;
+  background-color: rgb(255, 192, 203) ;
+  width: 50%;
+  height: 300px;
+  margin: auto;
+  box-shadow: 6px 6px 10px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
